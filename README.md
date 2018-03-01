@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A complete script/extension for <a href="http://plug.dj" target="_blank">plug.dj</a>.</h4>
+<h4 align="center">APPS for <a href="https://www.anime404.com/" target="_blank">Anime 404 Balkan</a>.</h4>
 <p align="center">
     <a href="#"><img src="https://badge.waffle.io/OrigemWoot/OrigemWoot.svg?label=ready&title=Ready"></a>
   </a>
